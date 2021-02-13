@@ -69,3 +69,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Pr01/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Pixel Perfect Cameras/PixelPerfectCamera_16PPU_320x240_Pixel Snapped.preset.meta
+Pr01/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Pixel Perfect Cameras/PixelPerfectCamera_32PPU_320x240_Pixel Snapped.preset.meta
+Pr01/Temp/UnityLockfile
