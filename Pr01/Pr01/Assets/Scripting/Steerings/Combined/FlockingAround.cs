@@ -52,11 +52,17 @@ namespace Steerings
 			}
 
 			result.linearAcceleration = result.linearAcceleration * (1 - seekWeight) + seekOutput.linearAcceleration * seekWeight;
+			//result.linearAcceleration.z = 0;
 			result.angularAcceleration = result.angularAcceleration * (1 - seekWeight) + seekOutput.angularAcceleration * seekWeight;
 
 			return result;
 		}
 
+		public void SetSeekWeight(float sw){
+			Debug.Log(seekWeight + " " + sw);
+			seekWeight = sw;
+			Debug.Log(seekWeight + " " + sw);
+		}
 
 	}
 }

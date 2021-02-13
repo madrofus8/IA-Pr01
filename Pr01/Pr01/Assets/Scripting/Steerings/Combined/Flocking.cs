@@ -85,9 +85,8 @@ namespace Steerings
 				// or just apply some wandering... 
 				return NaiveWander.GetSteering(ownKS, wanderRate);
 			}
-				
 
-		
+
 			SURROGATE_TARGET.GetComponent<KinematicState> ().linearVelocity = averageVelocity;
 
 			SteeringOutput vm = VelocityMatching.GetSteering (ownKS, SURROGATE_TARGET); // (in normal conditions) this does NOT return NULL_STEERING 

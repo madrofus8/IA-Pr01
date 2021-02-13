@@ -1,0 +1,2408 @@
+fileFormatVersion: 2
+guid: 42332fc623760bf4386f697b224dff9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 37698789226068128
+    second: 70V61QF_0
+  - first:
+      213: 6683129216565306204
+    second: 70V61QF_1
+  - first:
+      213: 2099533276582505665
+    second: 70V61QF_2
+  - first:
+      213: 6457245236073074725
+    second: 70V61QF_3
+  - first:
+      213: -7366328311386162676
+    second: 70V61QF_4
+  - first:
+      213: 2660438732817946466
+    second: 70V61QF_5
+  - first:
+      213: -3162121521122669550
+    second: 70V61QF_6
+  - first:
+      213: -2430311690276640391
+    second: 70V61QF_7
+  - first:
+      213: -4667950542004392174
+    second: 70V61QF_8
+  - first:
+      213: 8099754370413961968
+    second: 70V61QF_9
+  - first:
+      213: 2802658797704943498
+    second: 70V61QF_10
+  - first:
+      213: -197366668770688465
+    second: 70V61QF_11
+  - first:
+      213: 5260666924981861985
+    second: 70V61QF_12
+  - first:
+      213: -2522713652625167382
+    second: 70V61QF_13
+  - first:
+      213: -7042407909065300759
+    second: 70V61QF_14
+  - first:
+      213: 6473150487715949261
+    second: 70V61QF_15
+  - first:
+      213: -8452867235346056057
+    second: 70V61QF_16
+  - first:
+      213: 65446794204568469
+    second: 70V61QF_17
+  - first:
+      213: -1804802053684848944
+    second: 70V61QF_18
+  - first:
+      213: 7802969407491784859
+    second: 70V61QF_19
+  - first:
+      213: -8654628175445224686
+    second: 70V61QF_20
+  - first:
+      213: 5640075847138909170
+    second: 70V61QF_21
+  - first:
+      213: 5677180899252803911
+    second: 70V61QF_22
+  - first:
+      213: -3117207623354239792
+    second: 70V61QF_23
+  - first:
+      213: -396123251961115238
+    second: 70V61QF_24
+  - first:
+      213: 3640135056581429914
+    second: 70V61QF_25
+  - first:
+      213: 699449148202158959
+    second: 70V61QF_26
+  - first:
+      213: 3415214566677236331
+    second: 70V61QF_27
+  - first:
+      213: -4044743253732479257
+    second: 70V61QF_28
+  - first:
+      213: 1366260598583210897
+    second: 70V61QF_29
+  - first:
+      213: -7768885113086100603
+    second: 70V61QF_30
+  - first:
+      213: 1812260895997689218
+    second: 70V61QF_31
+  - first:
+      213: 2132869590015075325
+    second: 70V61QF_32
+  - first:
+      213: -3649422095802107869
+    second: 70V61QF_33
+  - first:
+      213: -350471142999200707
+    second: 70V61QF_34
+  - first:
+      213: 8765220903737076647
+    second: 70V61QF_35
+  - first:
+      213: 3859904549446292588
+    second: 70V61QF_36
+  - first:
+      213: 987262189472724108
+    second: 70V61QF_37
+  - first:
+      213: 2170847352814043394
+    second: 70V61QF_38
+  - first:
+      213: -7032905983680814139
+    second: 70V61QF_39
+  - first:
+      213: -2713623192626009265
+    second: 70V61QF_40
+  - first:
+      213: 7429261166128397679
+    second: 70V61QF_41
+  - first:
+      213: 4466206745164385896
+    second: 70V61QF_42
+  - first:
+      213: 5226742629031228521
+    second: 70V61QF_43
+  - first:
+      213: -8388242801321373477
+    second: 70V61QF_44
+  - first:
+      213: 6930741038356615456
+    second: 70V61QF_45
+  - first:
+      213: -145039645549179660
+    second: 70V61QF_46
+  - first:
+      213: -8768656536807610271
+    second: 70V61QF_47
+  - first:
+      213: 8760253058083524505
+    second: 70V61QF_48
+  - first:
+      213: 763292682280274321
+    second: 70V61QF_49
+  - first:
+      213: -7406594588612938852
+    second: 70V61QF_50
+  - first:
+      213: -822215450383651012
+    second: 70V61QF_51
+  - first:
+      213: 6774756729666062178
+    second: 70V61QF_52
+  - first:
+      213: -955686146458285172
+    second: 70V61QF_53
+  - first:
+      213: 5309076941311512037
+    second: 70V61QF_54
+  - first:
+      213: -4055216306915896178
+    second: 70V61QF_55
+  - first:
+      213: 9210550480763596858
+    second: 70V61QF_56
+  - first:
+      213: -1408323530910904944
+    second: 70V61QF_57
+  - first:
+      213: -688903517760205726
+    second: 70V61QF_58
+  - first:
+      213: 6293176449857374288
+    second: 70V61QF_59
+  - first:
+      213: -2106351932203469955
+    second: 70V61QF_60
+  - first:
+      213: -6269126465991619088
+    second: 70V61QF_61
+  - first:
+      213: 8677733909978108284
+    second: 70V61QF_62
+  - first:
+      213: -9156092700822504812
+    second: 70V61QF_63
+  - first:
+      213: 4362230889312074369
+    second: 70V61QF_64
+  - first:
+      213: -3158977188195632407
+    second: 70V61QF_65
+  - first:
+      213: -8412021904988288106
+    second: 70V61QF_66
+  - first:
+      213: 900466109566628110
+    second: 70V61QF_67
+  - first:
+      213: 3521581349126333220
+    second: 70V61QF_68
+  - first:
+      213: -6700651421024961159
+    second: 70V61QF_69
+  - first:
+      213: -2288973715312002801
+    second: 70V61QF_70
+  - first:
+      213: 7529943777971999314
+    second: 70V61QF_71
+  - first:
+      213: 2807666641609020484
+    second: 70V61QF_72
+  - first:
+      213: -8772592635559418963
+    second: 70V61QF_73
+  - first:
+      213: -2661267733822309355
+    second: 70V61QF_74
+  - first:
+      213: 5565515497791096327
+    second: 70V61QF_75
+  - first:
+      213: -5860302633705004230
+    second: 70V61QF_76
+  - first:
+      213: 2177931405409505696
+    second: 70V61QF_77
+  - first:
+      213: 3863617578436869308
+    second: 70V61QF_78
+  - first:
+      213: 8679463550276440483
+    second: 70V61QF_79
+  - first:
+      213: -1609765741452736361
+    second: 70V61QF_80
+  - first:
+      213: -5509032989744213335
+    second: 70V61QF_81
+  - first:
+      213: 2090180874766666779
+    second: 70V61QF_82
+  - first:
+      213: -7635989688377503198
+    second: 70V61QF_83
+  - first:
+      213: -2245267956210904039
+    second: 70V61QF_84
+  - first:
+      213: -4923824912278976843
+    second: 70V61QF_85
+  - first:
+      213: -5627359181620940958
+    second: 70V61QF_86
+  - first:
+      213: 1116142045598735483
+    second: 70V61QF_87
+  - first:
+      213: -4115423915037565691
+    second: 70V61QF_88
+  - first:
+      213: 6655999547907227034
+    second: 70V61QF_89
+  - first:
+      213: -2621449348463803286
+    second: 70V61QF_90
+  - first:
+      213: -8487300181447848140
+    second: 70V61QF_91
+  - first:
+      213: -8804047323736733544
+    second: 70V61QF_92
+  - first:
+      213: -4702952413843837677
+    second: 70V61QF_93
+  - first:
+      213: -8022218103886662301
+    second: 70V61QF_94
+  - first:
+      213: 394574123989259454
+    second: 70V61QF_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 70V61QF_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8384c59dee58000800000000000000
+      internalID: 37698789226068128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53e86d1d9e3fbc50800000000000000
+      internalID: 6683129216565306204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccefc8246a032d10800000000000000
+      internalID: 2099533276582505665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52018bb845ebc9950800000000000000
+      internalID: 6457245236073074725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abce4ed6b85c990800000000000000
+      internalID: -7366328311386162676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267dd409ee6cbe420800000000000000
+      internalID: 2660438732817946466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c8ddcea33ed14d0800000000000000
+      internalID: -3162121521122669550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 336
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979e49fd46cc54ed0800000000000000
+      internalID: -2430311690276640391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f6cb2c6bb183fb0800000000000000
+      internalID: -4667950542004392174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 337
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f221708fab186070800000000000000
+      internalID: 8099754370413961968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 337
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8793dfc35b05e620800000000000000
+      internalID: 2802658797704943498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 337
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22cb697f00d24df0800000000000000
+      internalID: -197366668770688465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb03132b4a10940800000000000000
+      internalID: 5260666924981861985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebaf318c458dfcd0800000000000000
+      internalID: -2522713652625167382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e2c8a157544e90800000000000000
+      internalID: -7042407909065300759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa4f5821045d950800000000000000
+      internalID: 6473150487715949261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf8afd80261ba80800000000000000
+      internalID: -8452867235346056057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 288
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5048338388e000800000000000000
+      internalID: 65446794204568469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6183c281e04f6e0800000000000000
+      internalID: -1804802053684848944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 288
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c9ce8557b94c60800000000000000
+      internalID: 7802969407491784859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131083578594e780800000000000000
+      internalID: -8654628175445224686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 289
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb99feb913954e40800000000000000
+      internalID: 5640075847138909170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 289
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7499899e2f569ce40800000000000000
+      internalID: 5677180899252803911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 289
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4b4d6ae247db4d0800000000000000
+      internalID: -3117207623354239792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc5974000b08af0800000000000000
+      internalID: -396123251961115238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a8bf53c8b548230800000000000000
+      internalID: 3640135056581429914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0a016b41f4b900800000000000000
+      internalID: 699449148202158959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 240
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4986cd87456f20800000000000000
+      internalID: 3415214566677236331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee2e91d07f2ed7c0800000000000000
+      internalID: -4044743253732479257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933a2196cee5f210800000000000000
+      internalID: 1366260598583210897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 240
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bbea5a6206f2490800000000000000
+      internalID: -7768885113086100603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df542eea1762910800000000000000
+      internalID: 1812260895997689218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e4197799799d10800000000000000
+      internalID: 2132869590015075325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 241
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f04870f5aa5dc0800000000000000
+      internalID: -3649422095802107869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 241
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce1813a50e22bf0800000000000000
+      internalID: -350471142999200707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 241
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba319c8f154a970800000000000000
+      internalID: 8765220903737076647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6419a0bcb2219530800000000000000
+      internalID: 3859904549446292588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 192
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8432b70bb573bd00800000000000000
+      internalID: 987262189472724108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201041e6a26602e10800000000000000
+      internalID: 2170847352814043394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c36cff0549166e90800000000000000
+      internalID: -7032905983680814139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4be34d6516475ad0800000000000000
+      internalID: -2713623192626009265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dffae2ba90a1760800000000000000
+      internalID: 7429261166128397679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e0afa2f572bfd30800000000000000
+      internalID: 4466206745164385896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 192
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643cc78abe198840800000000000000
+      internalID: 5226742629031228521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 192
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd013817d99f69b80800000000000000
+      internalID: -8388242801321373477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 193
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d775f040fe2060800000000000000
+      internalID: 6930741038356615456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_46
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 193
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc41b8f537bcfdf0800000000000000
+      internalID: -145039645549179660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 193
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ec2e86597f4680800000000000000
+      internalID: -8768656536807610271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f09951ebba29970800000000000000
+      internalID: 8760253058083524505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19988f286a2c79a00800000000000000
+      internalID: 763292682280274321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933566a67d763990800000000000000
+      internalID: -7406594588612938852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6b077767e694f0800000000000000
+      internalID: -822215450383651012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ce67f955c40e50800000000000000
+      internalID: 6774756729666062178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b87936388bcb2f0800000000000000
+      internalID: -955686146458285172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed07147951ada940800000000000000
+      internalID: 5309076941311512037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8418ea114af8b7c0800000000000000
+      internalID: -4055216306915896178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b7b7dcd272df70800000000000000
+      internalID: 9210550480763596858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4b33d531a47ce0800000000000000
+      internalID: -1408323530910904944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc26b86e58076f0800000000000000
+      internalID: -688903517760205726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0584a9273aad55750800000000000000
+      internalID: 6293176449857374288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73fd0dd31cb4c2e0800000000000000
+      internalID: -2106351932203469955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc196c1b69ff8a0800000000000000
+      internalID: -6269126465991619088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715b97b3018d6870800000000000000
+      internalID: 8677733909978108284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7dec13360fe080800000000000000
+      internalID: -9156092700822504812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abea9b1e1c98c30800000000000000
+      internalID: 4362230889312074369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea790cfbfe0924d0800000000000000
+      internalID: -3158977188195632407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b4e5e65ae724b80800000000000000
+      internalID: -8412021904988288106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013ff0e7291f7c00800000000000000
+      internalID: 900466109566628110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e052349b2fd030800000000000000
+      internalID: 3521581349126333220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d371eb8018203a0800000000000000
+      internalID: -6700651421024961159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_70
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 96
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f093f9e888eeb30e0800000000000000
+      internalID: -2288973715312002801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 96
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521fa088fbbf7860800000000000000
+      internalID: 7529943777971999314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d1d45fe5d6f620800000000000000
+      internalID: 2807666641609020484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e5462a7d714680800000000000000
+      internalID: -8772592635559418963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cff499817411bd0800000000000000
+      internalID: -2661267733822309355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70605cd9bdeac3d40800000000000000
+      internalID: 5565515497791096327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a332ab9cdc50caea0800000000000000
+      internalID: -5860302633705004230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d994f211993e10800000000000000
+      internalID: 2177931405409505696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc3fae97b35e9530800000000000000
+      internalID: 3863617578436869308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a19d2bfc16a37870800000000000000
+      internalID: 8679463550276440483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798cd194696f8a9e0800000000000000
+      internalID: -1609765741452736361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 48
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a253661fabfb83b0800000000000000
+      internalID: -5509032989744213335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 48
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c48cc6e60d10d10800000000000000
+      internalID: 2090180874766666779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22296bbe5d3870690800000000000000
+      internalID: -7635989688377503198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145b7490b437d0e0800000000000000
+      internalID: -2245267956210904039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6846f645f0babb0800000000000000
+      internalID: -4923824912278976843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f63fba3aa97e1b0800000000000000
+      internalID: -5627359181620940958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_87
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c5ac2e6455d7f00800000000000000
+      internalID: 1116142045598735483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd904f0c313e6c0800000000000000
+      internalID: -4115423915037565691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dbb26e25cde5c50800000000000000
+      internalID: 6655999547907227034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c224e4bdbe9bd0800000000000000
+      internalID: -2621449348463803286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_91
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f41bed37d073a80800000000000000
+      internalID: -8487300181447848140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_92
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89881fada9db1d580800000000000000
+      internalID: -8804047323736733544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da54962b1cbbeb0800000000000000
+      internalID: -4702952413843837677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b027532b5ba090800000000000000
+      internalID: -8022218103886662301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70V61QF_95
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4d0f1431fc97500800000000000000
+      internalID: 394574123989259454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
