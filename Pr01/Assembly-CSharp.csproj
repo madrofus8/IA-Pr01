@@ -36,51 +36,52 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Steerings\VelocityMatching.cs" />
-     <Compile Include="Assets\Steerings\Arrive.cs" />
-     <Compile Include="Assets\Steerings\Align.cs" />
-     <Compile Include="Assets\Steerings\GoWhereYouLook.cs" />
-     <Compile Include="Assets\Steerings\Combined\WanderPlusAvoid.cs" />
-     <Compile Include="Assets\Steerings\CombineSteerings.cs" />
-     <Compile Include="Assets\Steerings\Combined\FlockingAroundPlusAvoid.cs" />
-     <Compile Include="Assets\Steerings\Combined\WanderAround.cs" />
-     <Compile Include="Assets\Steerings\KBDSteer02.cs" />
-     <Compile Include="Assets\Steerings\Seek.cs" />
-     <Compile Include="Assets\Steerings\Combined\LeaderFollowingBlended.cs" />
-     <Compile Include="Assets\Steerings\Evade.cs" />
-     <Compile Include="Assets\Steerings\Cohesion.cs" />
-     <Compile Include="Assets\Steerings\Combined\FAKP.cs" />
-     <Compile Include="Assets\Steerings\ObstacleAvoidance.cs" />
-     <Compile Include="Assets\Steerings\Combined\FlockingAround.cs" />
-     <Compile Include="Assets\Steerings\Pursue.cs" />
-     <Compile Include="Assets\Steerings\Combined\FleePlusAvoid.cs" />
-     <Compile Include="Assets\Steerings\Combined\Flocking.cs" />
-     <Compile Include="Assets\Steerings\Wander.cs" />
-     <Compile Include="Assets\Steerings\Combined\ArrivePlusAvoid.cs" />
-     <Compile Include="Assets\Steerings\Flee.cs" />
-     <Compile Include="Assets\Steerings\Utils.cs" />
-     <Compile Include="Assets\Steerings\SteeringBehaviour.cs" />
-     <Compile Include="Assets\Steerings\KeepPosition.cs" />
-     <Compile Include="Assets\Steerings\Combined\FlockingPlusAvoid.cs" />
-     <Compile Include="Assets\Steerings\Combined\WanderAroundPlusAvoid.cs" />
-     <Compile Include="Assets\Steerings\Spiral.cs" />
-     <Compile Include="Assets\Steerings\SteeringOutput.cs" />
-     <Compile Include="Assets\Steerings\VeryNaiveWander.cs" />
-     <Compile Include="Assets\Steerings\NaiveWander.cs" />
-     <Compile Include="Assets\Steerings\Combined\FlockingPlusFlee.cs" />
-     <Compile Include="Assets\Steerings\Face.cs" />
-     <Compile Include="Assets\Steerings\Combined\FlockPlusKP.cs" />
-     <Compile Include="Assets\Steerings\KBDSteer01.cs" />
-     <Compile Include="Assets\Steerings\KinematicState.cs" />
-     <Compile Include="Assets\Steerings\LinearRepulsion.cs" />
-     <Compile Include="Assets\OtherScripts\TimeToLive.cs" />
-     <Compile Include="Assets\OtherScripts\DebugExtension.cs" />
-     <Compile Include="Assets\OtherScripts\DieNear.cs" />
-     <Compile Include="Assets\OtherScripts\StartStopController.cs" />
-     <Compile Include="Assets\OtherScripts\KBDRotate.cs" />
-     <Compile Include="Assets\OtherScripts\KBDMove.cs" />
-     <Compile Include="Assets\OtherScripts\SensingUtils.cs" />
-     <Compile Include="Assets\OtherScripts\ControlScript.cs" />
+     <Compile Include="Assets\Scripting\Steerings\VelocityMatching.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Arrive.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Align.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\TimeToLive.cs" />
+     <Compile Include="Assets\Scripting\Steerings\GoWhereYouLook.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\WanderPlusAvoid.cs" />
+     <Compile Include="Assets\Scripting\Steerings\CombineSteerings.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FlockingAroundPlusAvoid.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\WanderAround.cs" />
+     <Compile Include="Assets\Scripting\Steerings\KBDSteer02.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Seek.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\LeaderFollowingBlended.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Evade.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Cohesion.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FAKP.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\DebugExtension.cs" />
+     <Compile Include="Assets\Scripting\Steerings\ObstacleAvoidance.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\DieNear.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FlockingAround.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Pursue.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\StartStopController.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\KBDRotate.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FleePlusAvoid.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\KBDMove.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\SensingUtils.cs" />
+     <Compile Include="Assets\Scripting\OtherScripts\ControlScript.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\Flocking.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Wander.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\ArrivePlusAvoid.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Flee.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Utils.cs" />
+     <Compile Include="Assets\Scripting\Steerings\SteeringBehaviour.cs" />
+     <Compile Include="Assets\Scripting\Steerings\KeepPosition.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FlockingPlusAvoid.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\WanderAroundPlusAvoid.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Spiral.cs" />
+     <Compile Include="Assets\Scripting\Steerings\SteeringOutput.cs" />
+     <Compile Include="Assets\Scripting\Steerings\VeryNaiveWander.cs" />
+     <Compile Include="Assets\Scripting\Steerings\NaiveWander.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FlockingPlusFlee.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Face.cs" />
+     <Compile Include="Assets\Scripting\Steerings\Combined\FlockPlusKP.cs" />
+     <Compile Include="Assets\Scripting\Steerings\KBDSteer01.cs" />
+     <Compile Include="Assets\Scripting\Steerings\KinematicState.cs" />
+     <Compile Include="Assets\Scripting\Steerings\LinearRepulsion.cs" />
+     <Compile Include="Assets\Scripting\FSM\FiniteStateMachine.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Versiones Unity/2020.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -616,85 +617,85 @@
         <HintPath>D:/Versiones Unity/2020.1.4f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>D:/Trabajos y Apuntes Universidad/3o/Inteligencia Artificial/Pr01/Pr01/IA-Pr01/Pr01/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
